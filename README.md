@@ -1,4 +1,4 @@
-# SCHF Competitor Funnel Analysis
+# SCHF Funnel Analysis
 
 This project analyzes the donor funnel of Sydney Children's Hospitals Foundation (SCHF) to provide insights into nonprofit customer retention and fundraising performance.
 
